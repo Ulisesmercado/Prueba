@@ -1,10 +1,6 @@
 <?php
 
 echo "hola que tal";
-echo "creo que ya esta a punto de funcionar";
-echo "que buena esta la rola";
-
-echo 
 ?>
 <!DOCTYPE html>
 <html>
