@@ -1,6 +1,6 @@
 <?php
 
-echo "hola que tal";
+echo "hol";
 ?>
 <!DOCTYPE html>
 <html>
