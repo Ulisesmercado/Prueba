@@ -2,7 +2,7 @@
 
 echo "hola que tal";
 echo "creo que ya esta a punto de funcionar";
-ksajhsbajkBSKJ
+echo "que buena esta la rola";
 ?>
 <!DOCTYPE html>
 <html>
